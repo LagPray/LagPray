@@ -1,7 +1,7 @@
 ### Hi! Im Vinícius Oliveira👋
 
-- 🔭 I am currently an intern at the ENIAC University Center 🔭
-- 🌱 I'm currently learning Python and C++ to develop AIs in the future 🌱
+- 🔭 ENIAC University Center 🔭
+- 🌱 Java 🌱
 - 😄 Pronouns: Him/His 😄
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lagpray )](https://github.com/anuraghazra/github-readme-stats)
